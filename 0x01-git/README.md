@@ -1,1 +1,1 @@
-intro to git project
+git projest is interesting! 
